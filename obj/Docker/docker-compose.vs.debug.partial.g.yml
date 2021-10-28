@@ -11,7 +11,7 @@ services:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "PDFSample"
     volumes:
-      - D:\dev\PDFSample\PDFSample:C:\inetpub\wwwroot
+      - .\PDFSample:C:\inetpub\wwwroot
       - :C:\remote_debugger:ro
     entrypoint: cmd /c "start /B C:\\ServiceMonitor.exe w3svc & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
     environment:

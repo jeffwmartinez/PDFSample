@@ -1,13 +1,16 @@
-networks:
-  default:
-    external: true
-    name: nat
 services:
   pdfsample:
     build:
-      context: D:\dev\PDFSample\PDFSample
+      context: .\PDFSample
       dockerfile: Dockerfile
     image: pdfsample
+    networks:
+      default: null
     ports:
-    - target: 80
-version: '3.4'
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: nat
+    external: true
