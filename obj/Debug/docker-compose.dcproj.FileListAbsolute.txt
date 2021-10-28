@@ -1,0 +1,17 @@
+C:\Users\anwestg\source\repos\PDFSample\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\dev\PDFSample\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\dev\PDFSample\bin\Debug\ApplicationInsights.config
+D:\dev\PDFSample\bin\Debug\PDFSample.dll
+D:\dev\PDFSample\bin\Debug\System.Web.Optimization.dll
+D:\dev\PDFSample\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\dev\PDFSample\bin\Debug\Select.Pdf.dll
+D:\dev\PDFSample\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\dev\PDFSample\bin\Debug\PDFSample.pdb
+D:\dev\PDFSample\bin\Debug\PDFSample.dll.config
+D:\dev\PDFSample\bin\Debug\System.Web.Optimization.xml
+D:\dev\PDFSample\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\dev\PDFSample\bin\Debug\Select.Pdf.xml
+D:\dev\PDFSample\bin\Debug\Select.Html.dep
+D:\dev\PDFSample\bin\Debug\Select.Tools.dep
+D:\dev\PDFSample\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\dev\PDFSample\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
